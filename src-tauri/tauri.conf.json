@@ -38,7 +38,7 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEUxMzAyQUZGQTBBQjRGNEMKUldSTVQ2dWcveW93NFNlSkg1YURIaHhvSnBJQWNvTUgyb2lyVlJReDAyNlVhVGhuZFdnemZETjQK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDNCQzAzOUYyNTVEQzU5QTYKUldTbVdkeFY4am5BTzRKNTJSeXRhNjVVQUxmaW5uUTU4UG43ekZvalhzWXczeDRHdHFFZGhwc0MK",
       "endpoints": [
         "https://raw.githubusercontent.com/CosminSebastian2025/AppEseguibileProva-Rust/main/latest.json"
       ],
